@@ -44,7 +44,19 @@ https://raghuvarm17633.github.io/Clone-Websites/
 
 
 
+
+
+
+
+
+![image](https://github.com/raghuvarm17633/Clone-Websites/assets/137690672/990ee4a5-25f3-4e07-a16a-1185464eb8d0)
+
+
+
+
+
 ![image](https://github.com/raghuvarm17633/Clone-Websites/assets/137690672/eb1cbdfb-b0ef-4883-9358-a9cddcb7388c)
+
 
 
 
