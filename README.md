@@ -14,16 +14,33 @@ College Name: [Chalapathi Institute Of Engineering & Technology ]
 
  College State: [Andhra Pradesh]
 
- Internship Domain and Internship Start and End Date: [Domain of your internship]/[Start Date-End Date of your internship]
+ Internship Domain and Internship Start and End Date: [ Front End Development (FED).     and  12-06-2023 to 24-07-2023]
 
  Please insert your candid picture here on slide. Ensure that your candid picture is professional and appropriate for the context of the presentation. It should be clear and visually appealing.
 
+ 
+
 Slide 2: Problem Statement/Project Topic
 
+In my website i create a fashion store website that helps to find cheap rate and good quality products to help the people to fulfill their desired needs..
+
+# Slide 3: Agenda
+
+HTML
+CSS
 
 
-Clearly state the problem statement or topic of your project.
-Slide
+
+# Slide 4: Project Overview
+
+i have created a fashion store website naming dressup using html,css,Javascript.it helps the customer to finds the good products in website.i make a four pages named as home,about services and contact..it is look like a professional website.i am trying to solve the real world problem like in these days we are searching for good and genuine productshere and there.so i make a web app where i try to give every product details. my project helps the both customers and sellers.like for sellers i created a beautiful design that attract customer.
+
+
+# Slide 5: Links
+
+
+
+
 
 
 
